@@ -83,11 +83,3 @@ A look at how manufactured hardware devices and released software apps meet #Sma
    * [Blockchain Commons Seed Tool](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Study-SeedTool.md) — Airgapped Hardware Wallet.
    * [Foundation Devices Passport](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Study-Passport.md) — Airgapped Hardware Wallet.
    * [Sparrow Bitcoin Wallet](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Study-Sparrow.md) — Software Wallet & Transaction Coordinator.
-   * Keystone Pro (in process) — Airgapped Hardware Wallet.
-
-## Future Releases & Mailing List
-
-Keep apprised of our work on #SmartCustody, the next edition of the book, and other releases of best-practices and other educational documents through our email newsletter:
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/SmartCustody" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/SmartCustody', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-
