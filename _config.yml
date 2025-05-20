@@ -20,6 +20,8 @@ twitter:
   username: BlockchainComns
 minimal_mistakes_skin: dark
 search: true
+lunr:
+  search_within_pages: true
 
 # Build settings
 markdown: kramdown
