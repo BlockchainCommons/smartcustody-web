@@ -75,6 +75,14 @@ Timelocks are the next generation #SmartCustody solution, creating ways to retri
 
 Also see our experimental [mori-cli](https://github.com/BlockchainCommons/mori-cli) app for a real usage of Timelocks.
 
+### Real Implementations
+
+[Foundation](https://foundation.xyz/) has implemented many of Blockchain Commons' Smart Custody initiatives by adopting many of our specifications for their Passport Prime.
+
+A video focusing on their usage of our PQC libraries highlights some of the work:
+
+{% include video id="ZfsH2fIHCIA" provider="youtube" %}
+
 ### Case Studies
 
 A look at how manufactured hardware devices and released software apps meet #SmartCustody and Gordian ideals.
