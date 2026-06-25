@@ -19,6 +19,11 @@ $max-width:90%;
     float: right;    
 }
 
+.hexbox img, .hexline img {
+    height: 120px;
+    width: 150px;
+}
+
 .hexgridcorner {
     display: grid;
     grid-template-columns: repeat(5,58px);
