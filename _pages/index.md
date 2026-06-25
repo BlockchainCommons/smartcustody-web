@@ -14,7 +14,7 @@ sidebar:
   nav: subpages
 ---
 
-<div class="hexline hexgridcorner">
+<div class="hexbox hexgridcorner">
   <div class="hex11">
     <a href="https://developer.blockchaincommons.com/resources/">
       <img src="https://developer.blockchaincommons.com/assets/badges/cat-resources.png">
