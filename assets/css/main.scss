@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes";
+
+$max-width:90%;
+
+.hexbox {
+    padding: 12px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;    
+}
+
+.hexgridcorner {
+    display: grid;
+    grid-template-columns: repeat(5,58px);
+    grid-template-rows: repeat(3,62px);
+    grid-gap: 0px;
+}
+
+.hex11 {
+  grid-column: 1 / span 3; 
+  grid-row:  1 / span 2;
+}
+
+.hex21 {
+  grid-column: 3 / span 3; 
+  grid-row:  2 / span 2;
+}
