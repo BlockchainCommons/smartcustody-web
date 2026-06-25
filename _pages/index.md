@@ -14,10 +14,23 @@ sidebar:
   nav: subpages
 ---
 
+<div class="hexline hexgridcorner">
+  <div class="hex11">
+    <a href="https://developer.blockchaincommons.com/resources/">
+      <img src="https://developer.blockchaincommons.com/assets/badges/cat-resources.png">
+    </a>
+  </div>
+  <div class="hex21 highlighted">
+    <a href="https://www.smartcustody.com/">
+      <img src="https://developer.blockchaincommons.com/assets/badges/smart-custody.png">
+    </a>
+  </div>
+</div>  
+
 _**Latest News:** Added [Improving Multisig Custody with Request & Response](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig-RR.md) (2/28/24)._
 {: .notice--warning}
 
-<a href="https://bit.ly/SmartCustodyBookV101"><img src="http://www.smartcustody.com/assets/images/book-cover-v1-med.jpg" width=300 align="right"></a>*"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."*
+*"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."*
 
 Our goals:
 
@@ -27,6 +40,8 @@ Our goals:
 _#SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), who advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online._
 
 ## The Book
+
+<a href="https://bit.ly/SmartCustodyBookV101"><img src="http://www.smartcustody.com/assets/images/book-cover-v1-med.jpg" width=300 align="right"></a>
 
 #SmartCustody supports our shared blockchain infrastructure, improving the security of cryptocurrencies, identity wallets, and other digital assets. The first edition of our book on the topic is now out, covering the topic in 186 pages. Thanks to our early patrons, this first edition is free: you can download a [PDF](https://bit.ly/SmartCustodyBookV101) or you can get a [hardcopy from Lulu](https://bit.ly/SmartCustodyBookViaLulu) at cost.
 
