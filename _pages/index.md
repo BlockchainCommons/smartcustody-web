@@ -26,10 +26,6 @@ sidebar:
     </a>
   </div>
 </div>  
-
-_**Latest News:** Added [Improving Multisig Custody with Request & Response](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig-RR.md) (2/28/24)._
-{: .notice--warning}
-
 *"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."*
 
 Our goals:
@@ -38,6 +34,9 @@ Our goals:
 2. Prepare for newer custody technologies that break older models for custodianship.
 
 _#SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), who advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online._
+
+_**Latest News:** Added [Improving Multisig Custody with Request & Response](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig-RR.md) (2/28/24)._
+{: .notice--warning}
 
 ## The Book
 
