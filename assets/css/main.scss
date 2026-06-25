@@ -8,6 +8,10 @@ search: false
 
 $max-width:90%;
 
+.highlighted {
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.5));
+}
+
 .hexbox {
     padding: 12px;
     margin-left: 10px;
